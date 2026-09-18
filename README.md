@@ -1,7 +1,7 @@
-# Círculo Dorado — Prototipo web
+# SafePyme — Prototipo web
 
 Landing page funcional para el servicio de ciberseguridad gestionada
-"Círculo Dorado", construida con Next.js 14 (App Router), Tailwind CSS y
+"SafePyme", construida con Next.js 14 (App Router), Tailwind CSS y
 lucide-react.
 
 ## Ejecutar en local

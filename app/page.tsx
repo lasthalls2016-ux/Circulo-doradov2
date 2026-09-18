@@ -75,7 +75,7 @@ function Header() {
         <a href="#inicio" className="flex items-center gap-2.5">
           <GoldRingMark size={34} />
           <span className="font-display text-lg font-bold tracking-tight text-white">
-            Círculo Dorado
+            SafePyme
           </span>
         </a>
 
@@ -365,7 +365,7 @@ function Precios() {
 
         <div className="mx-auto max-w-md rounded-3xl border-2 border-gold-400 bg-navy-950 p-10 text-center shadow-soft">
           <span className="inline-block rounded-full bg-gold-400/15 px-4 py-1 text-sm font-medium text-gold-300">
-            Plan Círculo Dorado
+            Plan SafePyme
           </span>
 
           <div className="mt-6 flex items-end justify-center gap-1">
@@ -427,7 +427,7 @@ const TESTIMONIOS = [
     nombre: "Jorge Huamán",
     negocio: "Consultorio dental, Arequipa",
     texto:
-      "Nos avisaron de un intento de acceso raro un domingo por la noche. Sin Círculo Dorado, ni nos hubiéramos enterado.",
+      "Nos avisaron de un intento de acceso raro un domingo por la noche. Sin SafePyme, ni nos hubiéramos enterado.",
   },
 ];
 
@@ -512,7 +512,7 @@ function Contacto() {
             </div>
             <div className="flex items-start gap-3">
               <Mail size={20} className="mt-0.5 text-navy-700" />
-              <p className="font-medium text-navy-900">hola@circulodorado.pe</p>
+              <p className="font-medium text-navy-900">hola@safepyme.pe</p>
             </div>
             <div className="flex items-start gap-3">
               <MapPin size={20} className="mt-0.5 text-navy-700" />
@@ -532,7 +532,7 @@ function Contacto() {
               </h3>
               <p className="mt-2 max-w-xs text-[15px] text-navy-700/70">
                 Gracias, {form.nombre.split(" ")[0] || "amigo(a)"}. Un
-                especialista de Círculo Dorado te escribirá a {form.email} muy
+                especialista de SafePyme te escribirá a {form.email} muy
                 pronto.
               </p>
               <button
@@ -638,7 +638,7 @@ function Footer() {
             <a href="#inicio" className="flex items-center gap-2.5">
               <GoldRingMark size={30} />
               <span className="font-display text-base font-bold text-white">
-                Círculo Dorado
+                SafePyme
               </span>
             </a>
             <p className="mt-4 max-w-xs text-sm leading-relaxed text-sky-100/50">
@@ -679,7 +679,7 @@ function Footer() {
         </div>
 
         <p className="py-8 text-center text-xs text-sky-100/40">
-          © {new Date().getFullYear()} Círculo Dorado. Todos los derechos
+          © {new Date().getFullYear()} SafePyme. Todos los derechos
           reservados. Lima, Perú.
         </p>
       </div>

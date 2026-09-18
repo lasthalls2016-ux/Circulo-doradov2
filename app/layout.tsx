@@ -15,7 +15,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Círculo Dorado — Ciberseguridad gestionada para pymes",
+  title: "SafePyme — Ciberseguridad gestionada para pymes",
   description:
     "Monitoreo constante, backups automáticos y reportes claros para que tu pyme esté protegida sin necesitar un equipo de TI propio.",
 };
